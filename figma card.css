@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.picture {
+    width: 298px;
+    height: 262px;
+    gap: 0px;
+    margin: 28px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+.card {
+    width: 358px;
+    height: 530px;
+    margin-top: 140px;
+    margin-left: 540px;
+    border-radius: 25px;
+    border: 2px solid #363062;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.564);
+}
+.p1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 500px bolder;
+    line-height: 30.24px;
+    color: #363062;  
+    padding-left: 27px; 
+}
+.p2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 17.64px;
+    padding-left: 27px;
+    max-width: 280px;
+    padding-top: 5px;
+    color: #363062;
+}
+.strelka {
+    margin-left: 27px;
+    padding: 9px 26px;
+    border-radius: 25px;
+    border: 2px solid rgba(54, 48, 98, 1);
+    vertical-align: middle;
+    background-color: rgba(249, 148, 23, 1);
+    margin-top: 25px;
+    cursor: pointer;
+}
